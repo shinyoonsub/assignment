@@ -9,6 +9,7 @@ class Animal {
     private String name;
     private double weight;
     private String color;
+    
 
     
     // 동물의 이름, 몸무게, 색깔의 정보를 저장
